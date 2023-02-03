@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		265A316729830997009B23E0 /* 2_GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2_GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		265A316729830997009B23E0 /* My app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My app.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		265A316A29830997009B23E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		265A316C29830997009B23E0 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		265A316E29830997009B23E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		265A316829830997009B23E0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				265A316729830997009B23E0 /* 2_GuessTheFlag.app */,
+				265A316729830997009B23E0 /* My app.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = 2_GuessTheFlag;
 			productName = 2_GuessTheFlag;
-			productReference = 265A316729830997009B23E0 /* 2_GuessTheFlag.app */;
+			productReference = 265A316729830997009B23E0 /* My app.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -301,7 +301,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.BrennanDumm.--GuessTheFlag";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "My app";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -329,7 +329,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.BrennanDumm.--GuessTheFlag";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "My app";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
