@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
- var str = "Swift"
+ var str = "SwiftUI"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
